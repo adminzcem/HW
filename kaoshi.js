@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         华为认证助手优化版优化2025chatGTP自动交卷修复
+// @name         华为认证助手
 // @match        https://connect.huaweicloud.com/courses/exam/*
 // @match        https://edu.huaweicloud.com/certifications/*
 // @match        https://edu.huaweicloud.com/signup/*
