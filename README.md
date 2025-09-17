@@ -17,7 +17,11 @@
 作者对因使用本项目所造成的任何直接或间接损失概不负责，亦不提供任何形式的担保、承诺或技术支持。
 请务必在合法、合规、安全的前提下使用本项目。
 
-
+使用说明
+下载kaoshi.js 
+打开篡改猴-实用工具-导入
+extension://gcalenpjmijncebpfijmoaglllgpjagf/options.html#nav=utils
+复制到游览器直接打开篡改猴
 # AI 自动答题系统 - 使用说明
 ## 功能介绍
 
