@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         华为认证助手
+// @name         华为认证助手v2.0.1
 // @match        https://connect.huaweicloud.com/courses/exam/*
 // @match        https://edu.huaweicloud.com/certifications/*
 // @match        https://edu.huaweicloud.com/signup/*
@@ -15,7 +15,7 @@
 // @run-at       document-start
 // ==/UserScript==
 /*
-华为认证助手优化版 v2025.9.17
+华为认证助手优化版 v2025.9.17 
 ==================================
 
 ✨ 新增功能：
